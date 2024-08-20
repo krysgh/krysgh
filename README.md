@@ -1,7 +1,7 @@
 ## Eai, eu sou Krysthian Hernández!
 
 -  Em período de graduação em Sistemas de Informação 
--  Conhecimentos em C/HTML/CSS/JS
+-  Conhecimentos em C/HTML/CSS/JS/JAVA/PYTHON
 -  Buscando emprego na área de Tecnologia da Informação
    
 <div>
