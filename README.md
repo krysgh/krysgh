@@ -26,5 +26,7 @@
   <a href="https://br.linkedin.com/in/krysthian-galbiatti-00a246271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
+<div align="left">
+<img  src="https://raw.githubusercontent.com/krysgh/krysgh/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
+</div>
 
