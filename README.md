@@ -1,7 +1,7 @@
 ## Eai, eu sou Krysthian Hernández!
 
 -  Em período de graduação em Sistemas de Informação. 
--  Conhecimentos em HTML5, CSS3, JAVASCRIPT, C++, JAVA, C#, .NET e SQL.
+-  Possuo conhecimentos em HTML5, CSS3, JavaScript, C++, Java, C#, .NET, SQL, Excel e Python.
 -  Buscando emprego na área de Tecnologia da Informação.
   
    
@@ -19,6 +19,8 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" height="30" width="35" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"> 
+   <img align="center" height="30" width="35" src="https://cdn-icons-png.flaticon.com/128/732/732220.png"> 
+   <img align="center" height="30" width="35" src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png"> 
     
   
   
