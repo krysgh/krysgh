@@ -1,7 +1,7 @@
 ## Eai, eu sou Krysthian Hernández!
 
 -  Em período de graduação em Sistemas de Informação. 
--  Conhecimentos em HTML5, CSS3, JAVASCRIPT, C, JAVA, C#, .NET e SQL.
+-  Conhecimentos em HTML5, CSS3, JAVASCRIPT, C++, JAVA, C#, .NET e SQL.
 -  Buscando emprego na área de Tecnologia da Informação.
   
    
