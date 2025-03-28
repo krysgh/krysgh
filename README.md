@@ -15,7 +15,7 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png">
+   <img align="center" height="30" width="30" src="[https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" height="30" width="35" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"> 
