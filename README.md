@@ -20,7 +20,7 @@
    <img align="center" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" height="20" width="30" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"> 
    <img align="center" height="20" width="30" src="https://cdn-icons-png.flaticon.com/128/732/732220.png"> 
-   <img align="center" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png">  
+   <img align="center" height="20" width="30" src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png">  
 </div>
 
 <div> 
