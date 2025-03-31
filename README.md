@@ -18,9 +18,9 @@
    <img align="center" height="20" width="20" padding-left="2" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png">
    <img align="center" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" height="20" width="30" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"> 
-   <img align="center" height="20" width="30" src="https://cdn-icons-png.flaticon.com/128/732/732220.png"> 
-   <img align="center" height="20" width="30" src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png">  
+   <img align="center" height="20" width="20" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png"> 
+   <img align="center" height="20" width="20" src="https://cdn-icons-png.flaticon.com/128/732/732220.png"> 
+   <img align="center" height="20" width="20" src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png">  
 </div>
 
 <div> 
