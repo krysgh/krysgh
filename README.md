@@ -2,7 +2,7 @@
 
 -  Em período de graduação em Sistemas de Informação. 
 -  Possuo conhecimentos em HTML5, CSS3, JavaScript, C, Java, C#, SQL, Excel e Python.
--  Buscando emprego na área de Tecnologia da Informação.
+-  Estagiando em Desenvolvimento de Software na empresa 5by5 Soluções e Serviços.
   
    
 <div>
